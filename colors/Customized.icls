@@ -4,7 +4,7 @@
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
-    <option name="GUTTER_BACKGROUND" value="ffffff" />
+    <option name="GUTTER_BACKGROUND" value="" />
   </colors>
   <attributes>
     <option name="CSS.COMMENT">
