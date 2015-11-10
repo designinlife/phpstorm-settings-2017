@@ -30,5 +30,8 @@
     <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
     <option name="KEEP_SIMPLE_METHODS_IN_ONE_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="2" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
   </codeStyleSettings>
 </code_scheme>
