@@ -1,4 +1,4 @@
-<scheme name="Netbeans Scheme" version="141" parent_scheme="Default">
+<scheme name="Netbeans Scheme" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -12,6 +12,7 @@
     <option name="SELECTION_FOREGROUND" value="" />
   </colors>
   <attributes>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffc8c8" />
@@ -60,6 +61,18 @@
         <option name="FOREGROUND" value="ce7b00" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_CONSTANT" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
+    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DIFF_DELETED">
       <value>
         <option name="BACKGROUND" value="d6d6d6" />
@@ -83,6 +96,7 @@
         <option name="FOREGROUND" value="808080" />
       </value>
     </option>
+    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
@@ -148,6 +162,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="JS.BADCHARACTER">
       <value>
         <option name="FONT_TYPE" value="3" />
@@ -174,10 +189,10 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
+    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
-      <value>
-        <option name="EFFECT_TYPE" value="-1" />
-      </value>
+      <value />
     </option>
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
@@ -195,9 +210,7 @@
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
-      <value>
-        <option name="EFFECT_TYPE" value="-1" />
-      </value>
+      <value />
     </option>
     <option name="JS.NUMBER">
       <value>
@@ -212,7 +225,6 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="9933cc" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JS.STRING">
@@ -371,6 +383,7 @@
         <option name="FOREGROUND" value="0" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="STRING">
       <value>
         <option name="FOREGROUND" value="8000" />
@@ -425,6 +438,7 @@
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
       </value>
     </option>
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="YAML_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
