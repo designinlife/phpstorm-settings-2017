@@ -7,5 +7,6 @@
     <option name="IDE_AA_TYPE" value="No antialiasing" />
     <option name="EDITOR_AA_TYPE" value="No antialiasing" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_TABS_TOOLTIPS" value="false" />
   </component>
 </application>
