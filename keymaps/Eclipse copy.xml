@@ -1,0 +1,6 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="FindNext" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="p" />
+  </action>
+</keymap>
