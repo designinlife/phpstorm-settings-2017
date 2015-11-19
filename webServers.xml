@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="874aa320-26e0-4926-8eda-0467ed6b7c82" name="GameMX" url="http://www.b2.com">
-        <fileTransfer accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>
