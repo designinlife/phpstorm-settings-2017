@@ -1,0 +1,9 @@
+<application>
+  <component name="UISettings">
+    <option name="FONT_FACE" value="宋体" />
+    <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="IDE_AA_TYPE" value="No antialiasing" />
+    <option name="EDITOR_AA_TYPE" value="No antialiasing" />
+    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+  </component>
+</application>
