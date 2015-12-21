@@ -72,6 +72,11 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="80" />
+      </value>
+    </option>
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="80" />
