@@ -1,6 +1,6 @@
 <code_scheme name="Customized">
   <option name="LINE_SEPARATOR" value="&#10;" />
-  <option name="RIGHT_MARGIN" value="200" />
+  <option name="RIGHT_MARGIN" value="800" />
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
@@ -22,7 +22,7 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="PHP">
-    <option name="RIGHT_MARGIN" value="200" />
+    <option name="RIGHT_MARGIN" value="800" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
     <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="0" />
