@@ -1,6 +1,7 @@
 <code_scheme name="Customized">
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="800" />
+  <option name="HTML_KEEP_BLANK_LINES" value="1" />
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
