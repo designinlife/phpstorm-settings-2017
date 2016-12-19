@@ -1,8 +1,13 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CopyAction">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
   <action id="FindNext" />
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="p" />
   </action>
+  <action id="Print" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
