@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="APP" />
-    <option name="defaultScopeName" value="APP" />
+    <option name="customScope" value="appz-trunk" />
+    <option name="defaultScopeName" value="appz-trunk" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="APP" />
+    <option name="SEARCH_SCOPE" value="appz-trunk" />
   </component>
 </application>
