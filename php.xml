@@ -4,17 +4,6 @@
       <PhpCSConfiguration />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="ssh://root@192.168.0.130:22/usr/bin/php" id="3173f045-77da-4245-8fc5-5479bfdba54f" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.0.130" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="df99df8fdf9cdf89dfe4dff8df98dfe5dfcedffedfd2df99" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-      <interpreter home="D:\DevTools\Server\PHP-5.6.16\php.exe" id="b54efa12-4ef7-4d58-8cf9-b7c61bcc3c3c" name="PHP 5.6.16" debugger_id="php.debugger.XDebug" />
-      <interpreter home="ssh://root@192.168.0.129:22/usr/bin/php" id="92fc356f-5ae3-46e0-bae7-7b4884a3d4e7" name="Remote PHP 7.0" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="192.168.0.129" PORT="22" ANONYMOUS="false" USERNAME="root" PASSWORD="dfdcdf9ddfe5dffbdf89df92dfffdf9adfecdf9adfe7df9a" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/root/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
-      </interpreter>
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.6">
