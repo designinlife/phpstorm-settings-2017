@@ -3,7 +3,7 @@
     <property name="created">2017-09-05T10:47:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.2.0.0</property>
-    <property name="modified">2017-09-05T10:50:57</property>
+    <property name="modified">2017-09-05T11:25:17</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -70,6 +70,43 @@
       </value>
     </option>
     <option name="PHP_TAG">
+      <value>
+        <option name="FOREGROUND" value="80" />
+      </value>
+    </option>
+    <option name="SQL_COLUMN">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+    <option name="SQL_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+      </value>
+    </option>
+    <option name="SQL_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="80" />
+      </value>
+    </option>
+    <option name="SQL_LABEL">
+      <value>
+        <option name="EFFECT_COLOR" value="808080" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SQL_PROCEDURE">
+      <value />
+    </option>
+    <option name="SQL_STRING">
+      <value>
+        <option name="FOREGROUND" value="8000" />
+      </value>
+    </option>
+    <option name="SQL_SYNTHETIC_ENTITY">
+      <value />
+    </option>
+    <option name="SQL_TYPE">
       <value>
         <option name="FOREGROUND" value="80" />
       </value>

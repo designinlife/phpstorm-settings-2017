@@ -2,8 +2,8 @@
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
+  <option name="CONSOLE_FONT_NAME" value="Monospaced" />
   <colors>
     <option name="GUTTER_BACKGROUND" value="" />
   </colors>
@@ -429,6 +429,16 @@
     <option name="PHP_VAR_VAR">
       <value>
         <option name="FOREGROUND" value="80" />
+      </value>
+    </option>
+    <option name="SQL_COLUMN">
+      <value>
+        <option name="FOREGROUND" value="660e7a" />
+      </value>
+    </option>
+    <option name="SQL_PROCEDURE">
+      <value>
+        <option name="FOREGROUND" value="0" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
